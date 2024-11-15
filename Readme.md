@@ -19,5 +19,5 @@ I am a student of ***B.tech*** Computer Science and Engineering, studying in Gra
 * Working on a ML based Mini-Project (__College Enquiry Chatbot__).
 
 ## Connect With me On:
-* [linkedin.png](https://www.linkedin.com/in/rohan-saini-838642290/ "Linkedin")
-* Instagram:<br> https://www.instagram.com/_rohansaini15/
+* [linkedin.jpg](https://www.linkedin.com/in/rohan-saini-838642290/ "Linkedin")
+* [Insta.jpg](https://www.instagram.com/_rohansaini15/ "Instagram")
