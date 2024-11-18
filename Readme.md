@@ -1,5 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+Everyone;I+am+Rohan+Saini...;Welcome+To+My+Profile!&center=true&size=30">
+  </a>
+</h1>
 
-# Hi, I am ***Rohan Saini !*** 
 I am a student of ***B.tech*** Computer Science and Engineering, studying in Graphic Era Hill University, Dehradun. <br>
 
 
@@ -19,5 +23,4 @@ I am a student of ***B.tech*** Computer Science and Engineering, studying in Gra
 * Working on a ML based Mini-Project (__College Enquiry Chatbot__).
 
 ## Connect With me On:
- [!["Linkedin"](linkedin.png)](https://www.linkedin.com/in/rohan-saini-838642290/ )  
- [!["Instagram"](insta.png)](https://www.instagram.com/_rohansaini15/ )
+ [!["Linkedin"](linkedin.png)](https://www.linkedin.com/in/rohan-saini-838642290/ )  [!["Instagram"](insta.png)](https://www.instagram.com/_rohansaini15/ )  [!["Twitter"](https://img.icons8.com/?size=100&id=A4DsujzAX4rw&format=png&color=000000)](https://x.com/RohanSa51731396?t=5kFsQvjAb_aGmYw_cWM2jw&s=08 )
