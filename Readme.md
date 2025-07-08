@@ -10,7 +10,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[CypherRohan]/[CypherRohan]/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/CypherRohan/)_
 
 I am a student of ***B.tech*** Computer Science and Engineering, studying in Graphic Era Hill University, Dehradun. <br>
 
