@@ -23,7 +23,7 @@ I am a student of ***B.tech*** Computer Science and Engineering, studying in Gra
 
 ## Currently Exploring :
 * Currently Learning full Stack Web development.
-* Working on a ML based Mini-Project (__College Enquiry Chatbot__).
+* Exploring Socket Programming.
 
 ## Connect With me On:
  [!["Linkedin"](linkedin.png)](https://www.linkedin.com/in/rohan-saini-838642290/ )  [!["Instagram"](insta.png)](https://www.instagram.com/_rohansaini15/ )  [!["Twitter"](https://img.icons8.com/?size=100&id=A4DsujzAX4rw&format=png&color=000000)](https://x.com/RohanSa51731396?t=5kFsQvjAb_aGmYw_cWM2jw&s=08 )
